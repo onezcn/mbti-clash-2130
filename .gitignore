@@ -1,0 +1,17 @@
+# 依赖（clone 后 npm install 生成）
+node_modules/
+
+
+# 文件数据库数据
+data/settings.json
+
+# 日志
+*.log
+*.out.log
+*.err.log
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

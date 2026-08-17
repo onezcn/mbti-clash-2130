@@ -1,0 +1,32 @@
+{
+  "name": "mbti-clash",
+  "version": "1.0.0",
+  "description": "MBTI 社交对撞图文生成器：一句话生成 E/I 人格对撞剧本，渲染 iMessage 气泡风对比图文，一键导出高清竖版图。",
+  "main": "server.js",
+  "scripts": {
+    "test": "node --check server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "mbti",
+    "ai",
+    "xiaohongshu",
+    "image",
+    "generator",
+    "chat",
+    "图文生成器"
+  ],
+  "author": "沧州佳蓝网络科技有限公司",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@php-wasm/node": "^3.1.49",
+    "@php-wasm/universal": "^3.1.49",
+    "@seald-io/nedb": "^4.1.2",
+    "ws": "^8.21.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onezcn/mbti-clash-2130"
+  }
+}

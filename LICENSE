@@ -1,0 +1,39 @@
+MIT License
+
+Copyright (c) 2026 沧州佳蓝网络科技有限公司 (Cangzhou Jialan Network Technology Co., Ltd.)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------
+
+## 专有组件例外（Proprietary Component Exception）
+
+以下文件**不属于** MIT 许可范围，为佳蓝引擎专有运行库（Proprietary Runtime），
+由沧州佳蓝网络科技有限公司独立授权：
+
+- `js/onez.engine.min.js`
+
+该文件仅被授权随本工具一同正常使用。未经佳蓝官方书面授权，禁止：
+
+1. 单独或随其他产品二次分发、转售、出租、嵌入其他项目；
+2. 反编译、反混淆、逆向提取其中的任何逻辑、算法或数据；
+3. 移除、修改或遮挡其中的版权与授权信息；
+4. 以任何形式声称该文件为独立开源组件。
+
+除上述文件外，本仓库其余全部代码均按 MIT 许可授权。
